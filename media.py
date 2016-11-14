@@ -6,8 +6,7 @@ class Movie():
             udacity.title = movie_title
             udacity.storyline = movie_storyline
             udacity.poster_image_url = poster_image
-            udacity.trailer_youtube_url = trailer_youtube
-print Movie. __doc__            
-def show_trailer(self):
+            udacity.trailer_youtube_url = trailer_youtube           
+    def show_trailer(self):
             webbrowser.open(self.trailer_youtube_url)
 
