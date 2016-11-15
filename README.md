@@ -17,8 +17,8 @@ This is my first project at Udacity
 
 ## Installation
 
-Clone repository and open fresh_tomatoes.html in any webbrowser, I used Chrome.
-
+Clone repository and open fresh_tomatoes.html in any webbrowser, I used Chrome, or
+Using IDLE provided with python 2.7 open entertainment_center.py got to the run menu click on run module or in windows control + f5 button.
 
 ## Tests
 
